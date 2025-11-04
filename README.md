@@ -1,4 +1,4 @@
-![Banner animado](assets/alura-store-banner.gif)
+![Banner animado](assets/banner-challenge.mp4)
 
 ![Estado](https://img.shields.io/badge/estado-completo-brightgreen)
 ![Lenguaje](https://img.shields.io/badge/lenguaje-Python-blue)
