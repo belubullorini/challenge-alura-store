@@ -5,85 +5,85 @@
 ![Licencia](https://img.shields.io/badge/licencia-MIT-green)
 ![Última actualización](https://img.shields.io/badge/última%20actualización-2025--11--03-purple)
 
-# 🛍️ Alura Store – Data Analysis Challenge
+# 📊 Alura Store – Data Analysis Challenge  
 
-Proyecto desarrollado en el marco del programa **ONE Oracle Next Education**, como parte del módulo inicial de **Data Science (IA) + Soft Skills**.  
-El objetivo fue practicar el análisis de datos con Python, aplicando estructuras básicas como variables, listas, funciones, condicionales y bucles, para obtener **insights sobre el rendimiento de ventas de distintas tiendas**.
+Proyecto desarrollado en el marco del programa **ONE Oracle Next Education**, dentro del módulo de **Data Science (IA) + Soft Skills**.  
+El objetivo fue **practicar el análisis exploratorio de datos con Python**, utilizando las bibliotecas **pandas** y **matplotlib** para obtener insights sobre el rendimiento de ventas de distintas tiendas.  
 
 ---
 
-## 📑 Índice
+## 🧾 Índice
 
-- [📌 Estado del proyecto](#-estado-del-proyecto)
-- [🧩 Descripción general](#-descripción-general)
-- [📊 Análisis y visualizaciones](#-análisis-y-visualizaciones)
-- [🛠 Tecnologías usadas](#-tecnologías-usadas)
-- [✨ Funcionalidades](#-funcionalidades)
-- [🚀 Próximas mejoras](#-próximas-mejoras)
-- [💻 Cómo ejecutar el proyecto](#-cómo-ejecutar-el-proyecto)
-- [👩‍💻 Autora](#-autora)
+- [📌 Estado del proyecto](#-estado-del-proyecto)  
+- [🎯 Descripción general](#-descripción-general)  
+- [🛠 Tecnologías usadas](#-tecnologías-usadas)  
+- [📈 Análisis realizados](#-análisis-realizados)  
+- [💡 Conclusiones](#-conclusiones)  
+- [👩‍💻 Autora](#-autora)  
 - [📄 Licencia](#-licencia)
 
 ---
 
-## 📌 Estado del proyecto
-
-✅ **Versión funcional completa:** se analizaron los datos de ventas por tienda, se calcularon ingresos totales y promedios, y se generaron visualizaciones para identificar tendencias y comparaciones.
-
----
-
-## 🧩 Descripción general
-
-Este proyecto simula el análisis de datos de una tienda online, procesando información de productos y ventas con Python.  
-Se busca obtener **conclusiones claras sobre el desempeño de cada tienda**, a través de operaciones lógicas y visualizaciones con gráficos de torta, barras y mapas de calor.
+## 📌 Estado del proyecto  
+✅ Proyecto finalizado.  
+Se completó el análisis exploratorio de las cuatro tiendas y se elaboró un informe con resultados y recomendación final.
 
 ---
 
-## 📊 Análisis y visualizaciones
+## 🎯 Descripción general  
 
-El análisis se centró en:
+Este proyecto forma parte del **Challenge 1 de Data Science** de Alura Latam.  
+El objetivo fue **analizar los datos de ventas de cuatro tiendas** para determinar cuál presenta el menor desempeño y debería ser vendida por el Sr. Juan.  
 
-- Ingresos totales por tienda  
-- Comparación de precios y promedios  
-- Distribución porcentual de ventas  
-
-A continuación se muestra una de las visualizaciones del proyecto 👇  
-
-<img src="assets/grafico-tienda.png" alt="Gráfico de ventas por tienda" width="450"  
-style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border: 1px solid #ddd;" />
+Durante el proceso se aplicaron herramientas de análisis y visualización con Python, enfocándose en la interpretación de datos reales y en la presentación de resultados de manera clara y visual.  
 
 ---
 
-## 🛠 Tecnologías usadas
+## 🛠 Tecnologías usadas  
 
-- **Python 3**
-- **Google Colab / Jupyter Notebook**
-- **Bibliotecas:**  
-  - pandas 🐼  
-  - matplotlib 📊  
-  - seaborn 🔥  
+- **Python 3**  
+- **pandas** → manipulación y análisis de datos  
+- **matplotlib** → creación de gráficos y visualizaciones  
+- **Google Colab** → entorno de ejecución del proyecto  
 
 ---
 
-## ✨ Funcionalidades
+## 📈 Análisis realizados  
 
-- Cálculo de ingresos totales por tienda 🧾  
-- Promedios de precios por categoría 💲  
-- Visualización de datos mediante gráficos 🎨  
-- Identificación de tendencias 📈  
+Se trabajó con los siguientes indicadores:  
 
----
+- 💰 **Ingresos totales** por tienda  
+- 🛍️ **Categorías más y menos vendidas**  
+- ⭐ **Calificación promedio de los clientes**  
+- 🧩 **Productos más y menos vendidos**  
+- 🚚 **Costo de envío promedio**  
 
-## 🚀 Próximas mejoras
-
-- Incorporar más métricas (ventas promedio diarias, categorías más vendidas)  
-- Mejorar la presentación de los gráficos con estilos personalizados  
-- Añadir análisis automatizado de correlaciones  
+Cada análisis permitió identificar las diferencias clave entre las tiendas y evaluar su desempeño general.  
 
 ---
 
-## 💻 Cómo ejecutar el proyecto
+## 💡 Conclusiones  
 
-1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/belubullorini/alura-store
+Luego del análisis, se determinó que la **Tienda N°4** presenta el **menor nivel de ingresos**, **baja rentabilidad** y una **satisfacción de clientes inferior** al promedio.  
+Por el contrario, la **Tienda N°3** se destaca por su **mejor calificación promedio** y rendimiento equilibrado.  
+
+👉 Por ello, se recomienda **vender la Tienda N°4**, ya que es la menos eficiente dentro del conjunto analizado.  
+
+---
+
+## 👩‍💻 Autora  
+
+**Belén Bullorini**  
+📎 [LinkedIn](https://www.linkedin.com/in/belenbullorini)  
+💻 [GitHub](https://github.com/belubullorini)
+
+---
+
+## 📄 Licencia  
+
+Este proyecto está bajo la licencia **MIT**.  
+Para más detalles, ver el archivo [LICENSE](./LICENSE).
+
+---
+
+✨ *Proyecto realizado como parte del programa ONE Oracle Next Education – Data Science + Soft Skills.* 🚀
