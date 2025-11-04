@@ -18,6 +18,10 @@ El objetivo fue **practicar el análisis exploratorio de datos con Python**, uti
 - [🎯 Descripción general](#-descripción-general)  
 - [🛠 Tecnologías usadas](#-tecnologías-usadas)  
 - [📈 Análisis realizados](#-análisis-realizados)  
+- [📊 Ejemplos de gráficos e insights obtenidos](#-ejemplos-de-gráficos-e-insights-obtenidos)
+- [🎯 Propósito del análisis realizado](#-propósito-del-análisis-realizado)
+- [🗂 Estructura del proyecto y organización de archivos](#-estructura-del-proyecto-y-organización-de-archivos)
+- [🚀 Instrucciones para ejecutar el notebook](#-instrucciones-para-ejecutar-el-notebook)
 - [💡 Conclusiones](#-conclusiones)  
 - [👩‍💻 Autora](#-autora)  
 - [📄 Licencia](#-licencia)
@@ -59,6 +63,60 @@ Se trabajó con los siguientes indicadores:
 - 🚚 **Costo de envío promedio**  
 
 Cada análisis permitió identificar las diferencias clave entre las tiendas y evaluar su desempeño general.  
+
+---
+
+## 📊 Ejemplos de gráficos e insights obtenidos
+
+Durante el análisis, se generaron varios gráficos para visualizar y entender mejor los datos:
+
+- **Gráfico de barras de ingresos totales por tienda:**  
+  Permitió identificar rápidamente que la Tienda N°1 tiene el mayor volumen de ventas, mientras que la Tienda N°4 presenta los ingresos más bajos.
+
+- **Gráfico de torta con calificaciones promedio:**  
+  Mostró que la Tienda N°3 tiene la mejor satisfacción de los clientes, evidenciando la calidad en su oferta y atención.
+
+- **Gráfico de barras de productos más y menos vendidos por tienda:**  
+  Ayudó a detectar cuáles productos destacan en cada tienda y cuáles tienen menor demanda, facilitando la toma de decisiones sobre inventario.
+
+- **Análisis del costo de envío promedio:**  
+  Reveló que la Tienda N°4 ofrece los costos de envío más bajos, pero esto no compensó sus bajos ingresos ni su menor satisfacción.
+
+Estos gráficos y análisis permitieron identificar patrones clave para la recomendación final, aportando una visión integral del rendimiento de cada tienda.
+
+---
+
+## 🎯 Propósito del análisis realizado
+
+El propósito principal del análisis fue identificar las fortalezas y debilidades de cada tienda, basándonos en indicadores clave de ventas, satisfacción y costos, para tomar una decisión informada sobre cuál tienda debería vender el Sr. Juan y así optimizar su emprendimiento.
+
+---
+
+## 🗂 Estructura del proyecto y organización de archivos
+
+El proyecto está organizado de la siguiente manera:
+
+- `notebook.ipynb`: cuaderno principal donde se realiza el análisis exploratorio de datos y se generan las visualizaciones.
+- `datos/`: carpeta que contiene los archivos CSV con la información de ventas de cada tienda.
+- `assets/`: carpeta con imágenes y gifs usados para documentación y presentación.
+- `README.md`: este archivo, que explica el proyecto, sus resultados y cómo utilizarlo.
+
+---
+
+## 🚀 Instrucciones para ejecutar el notebook
+
+Para reproducir el análisis y las visualizaciones, sigue estos pasos:
+
+1. Clonar este repositorio.
+
+2. Abrir el archivo `notebook.ipynb` en Google Colab o Jupyter Notebook.
+
+3. Ejecutar las celdas en orden para realizar el análisis completo.
+
+4. Asegurarse de tener instaladas las librerías necesarias ejecutando:
+
+```bash```
+pip install pandas matplotlib
 
 ---
 
