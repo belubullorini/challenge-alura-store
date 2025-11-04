@@ -1,4 +1,4 @@
-![Banner animado](assets/banner-challenge.mp4)
+![Banner animado](assets/banner-challenge.gif)
 
 ![Estado](https://img.shields.io/badge/estado-completo-brightgreen)
 ![Lenguaje](https://img.shields.io/badge/lenguaje-Python-blue)
