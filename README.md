@@ -96,10 +96,9 @@ El propósito principal del análisis fue identificar las fortalezas y debilidad
 
 El proyecto está organizado de la siguiente manera:
 
-- `notebook.ipynb`: cuaderno principal donde se realiza el análisis exploratorio de datos y se generan las visualizaciones.
-- `datos/`: carpeta que contiene los archivos CSV con la información de ventas de cada tienda.
-- `assets/`: carpeta con imágenes y gifs usados para documentación y presentación.
-- `README.md`: este archivo, que explica el proyecto, sus resultados y cómo utilizarlo.
+- `AluraStoreLatam.ipynb`: cuaderno principal donde se realiza el análisis exploratorio de datos y se generan las visualizaciones.  
+- `assets/`: carpeta con el banner y otros recursos usados para documentación y presentación.  
+- `README.md`: este archivo, que explica el proyecto, sus resultados y cómo utilizarlo.  
 
 ---
 
@@ -107,12 +106,9 @@ El proyecto está organizado de la siguiente manera:
 
 Para reproducir el análisis y las visualizaciones, sigue estos pasos:
 
-1. Clonar este repositorio.
-
-2. Abrir el archivo `notebook.ipynb` en Google Colab o Jupyter Notebook.
-
-3. Ejecutar las celdas en orden para realizar el análisis completo.
-
+1. Clonar este repositorio.  
+2. Abrir el archivo `AluraStoreLatam.ipynb` en Google Colab o Jupyter Notebook.  
+3. Ejecutar las celdas en orden para realizar el análisis completo.  
 4. Asegurarse de tener instaladas las librerías necesarias ejecutando:
 
 ```bash```
