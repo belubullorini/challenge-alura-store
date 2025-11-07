@@ -111,9 +111,9 @@ Para reproducir el análisis y las visualizaciones, sigue estos pasos:
 3. Ejecutar las celdas en orden para realizar el análisis completo.  
 4. Asegurarse de tener instaladas las librerías necesarias ejecutando:
 
-```bash```
+```bash
 pip install pandas matplotlib
-
+```
 ---
 
 ## 💡 Conclusiones  
