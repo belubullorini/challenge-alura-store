@@ -1,4 +1,6 @@
-![Banner animado](assets/Banner-challenge-ezgif.com-optimize.gif)
+<p align="center">
+  <img src="assets/Banner-challenge.gif" alt="Banner animado" width="900">
+</p>
 
 ![Estado](https://img.shields.io/badge/estado-completo-brightgreen)
 ![Lenguaje](https://img.shields.io/badge/lenguaje-Python-blue)
